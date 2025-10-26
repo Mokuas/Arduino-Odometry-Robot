@@ -1,0 +1,17 @@
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Arduino build outputs
+*.hex
+*.elf
+*.eep
+*.bin
+
+# PlatformIO (if used)
+.pio/
+
+# Backup / temp files
+*.bak
+*.tmp
